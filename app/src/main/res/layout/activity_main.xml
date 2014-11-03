@@ -13,9 +13,9 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:stretchMode="columnWidth"
-        android:columnWidth="120dip"
-        android:verticalSpacing="10dip"
-        android:horizontalSpacing="10dip"
+        android:columnWidth="90dp"
+        android:verticalSpacing="10dp"
+        android:horizontalSpacing="10dp"
         android:cacheColorHint="@android:color/transparent"
         android:numColumns="auto_fit" >
     </GridView>
